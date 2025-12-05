@@ -1,12 +1,12 @@
 
-![tesla logo](/TESLA/RESOURCES/text.png) 
+![tesla logo](TESLA/RESOURCES/text.png) 
 
 # Sales Dashboard Report
 
 ---
 
 # Page 1 — Executive Overview
-![page 1](/TESLA/PAGE%201%20.png)
+![page 1](TESLA/PAGE%201%20.png)
 
 ## 1. Introduction
 
@@ -32,7 +32,8 @@ Data has been cleaned, transformed, and structured for advanced trend analysis, 
 
 ---
  ## Page 1 Insights — Executive
-![](/TESLA/PAGE%201%20INSIGHTS.png)
+![page 1 insights](TESLA/PAGE%201%20INSIGHTS.png)
+
 
 ### 🔍 Key Insights
 
@@ -72,7 +73,7 @@ Data has been cleaned, transformed, and structured for advanced trend analysis, 
 
 # **Page 2 — Sales & Operational Overview**
 
-![](/TESLA/PAGE%202.png)
+![page 2](TESLA/PAGE%202.png)
 ## **1. Overview**
 
 This page focuses on Tesla’s operational performance, including production outputs, deliveries, profit, and environmental impact. It emphasizes the relationship between production and demand across all major global regions.
@@ -98,7 +99,7 @@ This page focuses on Tesla’s operational performance, including production out
 
 # **Page 2 Insights — Sales & Operational**
 
-![](/TESLA/PAGE%202%20INSIGHTS.png)
+![page 2 insights](TESLA/PAGE%202%20INSIGHTS.png)
 ### **📊 Key Findings**
 
  **Production consistently exceeds deliveries**, suggesting possible inventory buildup or conservative demand forecasting.
@@ -131,7 +132,7 @@ This page focuses on Tesla’s operational performance, including production out
 
 # **Page 3 — Sales Forecast**
 
-![](/TESLA/PAGE%203.png)
+![page 3](TESLA/PAGE%203.png)
 
 ### **📈 Model Performance**
 
@@ -152,6 +153,7 @@ This page focuses on Tesla’s operational performance, including production out
 * Continue premium positioning for **Model S**.
 * Expand distribution in **Asia & Middle East** due to emerging demand.
   
-![](/TESLA/Screenshot%202025-12-02%20113857.png)
+![page 3](TESLA/Screenshot%202025-12-02%20113857.png)
 ---
+
 
